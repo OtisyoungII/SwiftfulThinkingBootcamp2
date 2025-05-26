@@ -15,7 +15,7 @@ struct PaddingandSpacingBootcamp: View {
                 .fontWeight(.semibold)
                 .padding(.bottom, 20)
             
-            Text ("THis is the description of what we will do on this screen it is muiltble line and we will align the text tot he leading edge.")
+            Text ("THis is the description of what we will do on this screen it is muiltble line and we will align the text to the leading edge.")
         }
         .padding()
         .padding(.vertical, 10)
